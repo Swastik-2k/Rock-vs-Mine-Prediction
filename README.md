@@ -1,4 +1,4 @@
-#Rock vs Mine Prediction
+##Rock vs Mine Prediction
 
 This project is focused on predicting whether an object is a rock or a mine based on sonar data using logistic regression. The dataset contains readings from sonar signals bounced off a metal cylinder (mine) and rocks at various angles and under various conditions.
 
